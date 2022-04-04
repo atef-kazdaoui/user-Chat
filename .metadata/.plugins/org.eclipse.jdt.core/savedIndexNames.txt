@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\eclipse\user-Chat\.metadata\.plugins\org.eclipse.jdt.core
+3803309674.index
+1475927730.index
+843213633.index
